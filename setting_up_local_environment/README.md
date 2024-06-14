@@ -88,9 +88,9 @@ $ git push origin main
 This project can’t be done in Sandboxes - it can be done only in your local computer. Please refer to our concept pages for your operating system.
 
 
+# Setting Docker
 
-
-# Struggling with the sandbox? Try this: Using Docker & WSL on your local host
+## Struggling with the sandbox? Try this: Using Docker & WSL on your local host
 
 In this software engineering training, all projects are designed to be done in the Ubuntu 20.04 Linux environment.
 
