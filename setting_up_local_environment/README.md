@@ -142,6 +142,7 @@ First, head to the guide for your particular operating system. This will give yo
 
 ## 1. Docker Installation on Windows
 https://youtu.be/rATNU0Fr8zs
+
 Key steps:
 - Download & install docker
 - Download & install WSL
