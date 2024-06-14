@@ -45,8 +45,7 @@ Also:
 ### Read or watch:
 
 - [Virtual machine](https://intranet.alxswe.com/rltoken/eoV8V_5fgzW_UhJ3PtVyWw)
-
--[ man uname](https://intranet.alxswe.com/rltoken/Z4MowYniH5YJoZo4jZgIBw)
+- [man uname](https://intranet.alxswe.com/rltoken/Z4MowYniH5YJoZo4jZgIBw)
 
 ## Learning Objectives
 - At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/g5OVhHRsT0jjsvUI1Y8jgw), without the help of Google:
