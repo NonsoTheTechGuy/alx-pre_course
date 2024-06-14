@@ -5,6 +5,9 @@ For this project, we expect you to look at these concepts:
 
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 - [Authenticating Git](https://intranet.alxswe.com/concepts/100035)
+- [Source code management](https://intranet.alxswe.com/concepts/22)
+- [Right-engineering, right-documenting](https://intranet.alxswe.com/concepts/6)
+- [Git and Github cheat sheet - Everything in less than 30 seconds](https://intranet.alxswe.com/concepts/57)
 
 ## Resources
 ### Read or watch:
