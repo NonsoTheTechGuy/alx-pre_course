@@ -1,4 +1,4 @@
-# `0x01. Git` `Git` `Code versioning` `Github`
+# Project - `0x01. Git` `Git` `Code versioning` `Github` 💂‍♂️
  
 ## Concepts
 For this project, we expect you to look at these concepts:
@@ -59,3 +59,6 @@ $ git commit -m "Initial commit"
 $ git push origin main
 
 ```
+# Author
+
+## KALU JONAH CHINONSO 💂‍♂️
