@@ -235,7 +235,7 @@ https://youtu.be/J24j1Di-Rhc
 
 ![image](https://github.com/NonsoTheTechGuy/alx-pre_course/assets/92136146/38dc8e81-ede0-41d0-9438-45eb7d16422e)
 
-- Install a Linux distribution. Open the Microsoft Store and search for “Linux”. Select the Linux distribution that you want to install and click the “Get” button. Once the distribution is installed, click the “Launch” button to start it.
+- Install a Linux distribution. Open the `Microsoft Store` and search for `“Linux”`. Select the Linux distribution that you want to install and click the `“Get”` button. Once the distribution is installed, click the `“Launch”` button to start it.
 
 ![image](https://github.com/NonsoTheTechGuy/alx-pre_course/assets/92136146/3cc64385-f2a1-434f-8d09-0a8eb978410d)
 
