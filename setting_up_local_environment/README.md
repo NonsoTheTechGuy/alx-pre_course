@@ -1,6 +1,6 @@
 # Project - `Setting up your local coding environment` `DevOps` `Virtual machine`
   
-## Concepts
+# Concepts
 - For this project, we expect you to look at this concept:
 
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
